@@ -21,7 +21,7 @@ public class homework {
 
     public static Hero[] createHeroes() {
         Hero hero1 = new Hero(250, 30, "Invisibility");
-        Hero hero2 = new Hero(300, 25); // без суперсилы
+        Hero hero2 = new Hero(300, 25);
         Hero hero3 = new Hero(200, 35, "Flight");
 
         Hero[] heroes = {hero1, hero2, hero3};
